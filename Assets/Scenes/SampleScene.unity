@@ -364,7 +364,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ProjectileLauncher
   projectilePrefab: {fileID: 1388269616038724391, guid: 9a93d6dbffb3f864cbee8ac26d61aeed, type: 3}
   firePoint: {fileID: 229024125}
-  launchForce: 18
+  launchForce: 22
   fireCooldown: 0.5
 --- !u!114 &216209211
 MonoBehaviour:
@@ -378,7 +378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32fdbcabd1a3cf14083adb083dec1348, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SimplePlayerMovement
-  moveSpeed: 4
+  moveSpeed: 5
 --- !u!1 &229024124
 GameObject:
   m_ObjectHideFlags: 0
